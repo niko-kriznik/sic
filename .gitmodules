@@ -1,3 +1,6 @@
 [submodule "vendor/chip8-roms"]
 	path = vendor/chip8-roms
 	url = git@github.com:niko-kriznik/chip8-roms.git
+[submodule "vendor/fmt"]
+	path = vendor/fmt
+	url = https://github.com/fmtlib/fmt.git
